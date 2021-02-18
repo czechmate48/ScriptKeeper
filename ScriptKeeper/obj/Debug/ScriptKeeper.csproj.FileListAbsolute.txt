@@ -1,0 +1,10 @@
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\bin\Debug\ScriptKeeper.exe.config
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\bin\Debug\ScriptKeeper.exe
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\bin\Debug\ScriptKeeper.pdb
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.csprojAssemblyReference.cache
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.Form1.resources
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.Properties.Resources.resources
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.csproj.GenerateResource.cache
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.csproj.CoreCompileInputs.cache
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.exe
+C:\Users\cnsef\source\repos\ScriptKeeper\ScriptKeeper\obj\Debug\ScriptKeeper.pdb
